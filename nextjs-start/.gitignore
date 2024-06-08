@@ -1,0 +1,9 @@
+lib/firebase/config.js
+.next/
+.firebase/
+node_modules/
+
+**/.firebaserc
+**/node_modules/
+**/*-debug.log
+**/.DS_Store
