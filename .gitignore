@@ -10,3 +10,4 @@ node_modules/
 
 .swc/
 .*.env
+package-lock.json
